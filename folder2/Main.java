@@ -26,9 +26,9 @@ public class Main {
                 }
             }
             if (a == 0) {
-                System.out.println("Yes");
-            } else {
                 System.out.println("No");
+            } else {
+                System.out.println("Yes");
             }
             t--;
         }
